@@ -1,0 +1,12 @@
+.DS_Store
+Thumbs.db
+.vscode/
+Builds/
+JuceLibraryCode/
+*.exe
+*.obj
+*.o
+*.pdb
+*.ilk
+*.zip
+*.rar
