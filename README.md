@@ -1,5 +1,9 @@
 # JUCE DJ Audio Application
 
+**Portfolio focus:** C++ application structure, audio playback, and separation of interface components from playback logic.
+
+**Start here:** open `OtoDecks.jucer` in Projucer, then inspect the playback and waveform components. This project complements the JavaScript and web work on this profile.
+
 A C++ audio application built with JUCE. The project includes source files for playback control, channel strips, track management, waveform rendering, and the main app interface.
 
 ## Tech Stack
